@@ -1,0 +1,102 @@
+<div class="container footer-container">
+  <ul class="icons no-print">
+    {%- if site.footer_facebook_username -%}
+      <li>
+        <a target="_blank" href="https://www.facebook.com/{{ site.footer_facebook_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+          <i class="fab fa-facebook" title="Facebook link"></i>
+        </a>
+      </li>
+    {%- endif -%}
+    {%- if site.footer_instagram_username -%}
+      <li>
+        <a target="_blank" href="https://www.instagram.com/{{ site.footer_instagram_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+          <i class="fab fa-instagram" title="Instagram link"></i>
+        </a>
+      </li>
+    {%- endif -%}
+    {%- if site.footer_linkedin_username -%}
+      <li>
+        <a target="_blank" href="https://www.linkedin.com/in/{{ site.footer_linkedin_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+          <i class="fab fa-linkedin" title="Linkedin link"></i>
+        </a>
+      </li>
+    {%- endif -%}    
+    {%- if site.footer_dribbble_username -%}
+      <li>
+        <a target="_blank" href="https://dribbble.com/{{ site.footer_dribbble_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+          <i class="fab fa-dribbble-square" title="Dribble link"></i>
+        </a>
+      </li>
+    {%- endif -%}    
+    {%- if site.footer_flickr_username -%}
+      <li>
+        <a target="_blank" href="https://www.flickr.com/photos/{{ site.footer_flickr_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+          <i class="fab fa-flickr" title="Flickr link"></i>
+        </a>
+      </li>
+    {%- endif -%}
+    {%- if site.footer_github_username -%}
+      <li>
+        <a target="_blank" href="https://github.com/{{ site.footer_github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+          <i class="fab fa-github" title="Github link"></i>
+        </a>
+      </li>
+    {%- endif -%}
+    {%- if site.footer_stackoverflow_username -%}
+      <li>
+        <a target="_blank" href="https://stackoverflow.com/users/{{ site.footer_stackoverflow_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+          <i class="fab fa-stack-overflow" title="Stackoverflow link"></i>
+        </a>
+      </li>
+    {%- endif -%}
+    {%- if site.footer_xing_username -%}
+      <li>
+        <a target="_blank" href="https://www.xing.com/profile/{{ site.footer_xing_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+          <i class="fab fa-xing" title="Xing link"></i>
+        </a>
+      </li>
+    {%- endif -%}
+    {%- if site.footer_pinterest_username -%}
+      <li>
+        <a target="_blank" href="https://www.pinterest.com/{{ site.footer_pinterest_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+          <i class="fab fa-pinterest" title="Pintrest link"></i>
+        </a>
+      </li>
+    {%- endif -%}
+    {%- if site.footer_twitter_username -%}
+      <li>
+        <a target="_blank" href="https://twitter.com/{{ site.footer_twitter_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+          <i class="fab fa-twitter" title="Twitter link"></i>
+        </a>
+      </li>
+    {%- endif -%}
+    {%- if site.footer_youtube_username -%}
+      <li>
+        <a target="_blank" href="https://www.youtube.com/{{ site.footer_youtube_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+          <i class="fab fa-youtube" title="Youtube link"></i>
+        </a>
+      </li>
+    {%- endif -%}
+    {%- if site.footer_orcid_username -%}
+      <li>
+        <a target="_blank" href="https://orcid.org/{{ site.footer_orcid_username | escape }}" class="button button--sacnite button--round-l">
+          <i class="fab fa-orcid" title="ORCiD link"></i>
+        </a>
+      </li>
+    {%- endif -%}
+    {% for link in site.additional_links %}
+      <li>
+        {% include a.html href=link.url class="button button--sacnite button--round-l" %}
+          <i class="fab {{ link.icon }}" title="{{ link.title | escape }}"></i>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+  <p>
+    {{ site.name | escape }} -
+    <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+    {%- if site.footer_show_references -%}
+      &nbsp;- References on request
+    {%- endif -%}
+  </p>
+</div>

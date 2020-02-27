@@ -1,0 +1,112 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Shreekant Kembhavi
+title: DevOps Engineer
+email: shreekant.pk@gmail.com
+website: https://shreekant.github.io/
+
+darkmode: false
+
+# Social links
+linkedin_username: shreekantpk
+facebook_username: shreekantpk
+twitter_username: shreekantpk
+instagram_username: shreekantpk
+# github_username:  shreekantpk
+# stackoverflow_username: "1285684"
+# dribbble_username: shreekantpk
+# flickr_username: shreekantpk
+# xing_username: shreekantpk
+# pinterest_username: shreekantpk
+# youtube_username: shreekantpk
+# googleplus_username: +shreekantpk
+# orcid_username: 0000-0000-0000-0000
+
+# # Social links for footer
+# footer_linkedin_username: shreekantpk
+# footer_facebook_username: shreekantpk
+# footer_twitter_username: shreekantpk
+# footer_instagram_username: shreekantpk
+# footer_github_username:  shreekantpk
+# footer_stackoverflow_username: "1285684"
+# footer_dribbble_username: shreekantpk
+# footer_flickr_username: shreekant.pk
+# # footer_xing_username: shreekantpk
+# footer_pinterest_username: shreekantpk
+# footer_youtube_username: shreekantpk
+# # footer_googleplus_username: +shreekantpk
+# # footer_orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: Download CV
+  icon: fas fa-arrow-alt-circle-down
+  url: "assets/Resume.pdf"
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: assets/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hello, I am DevOps Specialist with over 6 years of professional experience and has developed a range of skills across DevOps, software development, cloud computing, Linux and more. I have been working as <mark>DevOps Engineer</mark> since shortly the concept was introduced.
+  
+  Prior to joining Accenture, I worked as DevOps Engineer at SAP Labs, Oracle and Cisco. I have worked for multiple projects including IoT, digital supply chain & manufacturing, oracle HCM Cloud and set top boxes.
+
+  I have 7 years of computer science education background including masters degree in Information Technology from The University of Nottingham, United Kingdom.
+
+  
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  Besides my professional life, I Love to travel and like to explore new places. Not only travel I am also found of food.
+  
+  **Like people often say motivation doesn’t last. Well, neither does bathing—that’s why we recommend it daily.** 
+
+  Stay motivated and get in touch with on [LinkedIn](https://www.linkedin.com/in/shreekantpk/) or [email me](mailto:shreekant.pk@gmail.com) to stay connected!
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

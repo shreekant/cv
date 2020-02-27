@@ -1,0 +1,21 @@
+# Education Template
+- layout: left
+  name: The University of Nottingham
+  dates: 2011 - 2012
+  location: Nottingham, United Kingdom
+  qualification: Masters in Information Technology
+  # description: | # this will include new lines to allow paragraphs
+  #   test
+    
+
+- layout: left
+  name: B. N. M. Institute of Technology (VTU)
+  dates: 2007 - 2010
+  location: Bangalore, India
+  qualification: Bachelor of Engineering in Information Science and Engineering
+
+- layout: left
+  name: N. V. Polytechnic
+  dates: 2003 - 2006
+  location: Kalaburagi, India
+  qualification: Diploma in Information Science and Technology

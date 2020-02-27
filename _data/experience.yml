@@ -1,0 +1,54 @@
+# Experience template
+- layout: left
+  company: Accenture UK
+  # link: www.accenture.com
+  location: London, United Kingdom
+  job_title: Tech Architecture Delivery Specialist
+  dates: July 2019 to till dates
+  description: | # this will include new lines to allow paragraphs
+    Involved in maintaining infrastructure including Kubernetes on Azure Cloud and AWS. 
+    Maintaining repositories and release of product using Azure DevOps.
+    Setting up and Integrating Airflow on Azure to schedule containers using Python.
+    Setting up alerting and monitoring on Azure.
+    Involved in creating pipelines for CI/CD.
+    Infrastructure as Code using terraform.
+    <mark>Skills used</mark>: <b>Azure, Kubernetes, AWS, Azure DevOps, Linux, Jira, Terraform</b>
+
+- layout: left
+  company: SAP Labs
+  job_title: Tech Architecture Delivery Specialist
+  dates: July 2017 to July 2019
+  location: Bangalore, India
+  description: | # this will include new lines to allow paragraphs
+    Onboarding customers on SAP Leonardo IoT Platform on Cloud foundry.
+    Minimizing the tasks using REST API using postman.
+    Configured Dynatrace for monitoring IoT Applications and infrastructure including HANA database.
+    Migrated the Jenkins system that was launching from docker on to Kubernetes.
+    Integrated Jenkins as admin for CI/CD
+    <mark>Skills used</mark>: <b>Cloudfoundry, Jira, Jenkins, Kubernetes, Git,  Postman, Ruby,  Dynatrace, Linux </b>
+    
+- layout: left
+  company: Oracle
+  job_title: Tech Architecture Delivery Specialist
+  dates: July 2017 to July 2019
+  location: Bangalore, India
+  description: | # this will include new lines to allow paragraphs
+    Release development for Oracle Fusion HCM cloud.
+    Involved in applying weekly and monthly patch bundles in the pods.
+    Used Bugzilla for tracking bugs.
+    <mark>Skills used</mark>: <b>Bugzilla, Oracle Linux, bash</b>
+    
+- layout: left
+  company: Cisco
+  job_title: Tech Architecture Delivery Specialist
+  dates: July 2017 to July 2019
+  location: Bangalore, India
+  description: | # this will include new lines to allow paragraphs
+    Develop and maintain CI/CD system that works on cloud and virtualization.
+    Using Openstack as the cloud.
+    Develop and configure a log file server using ELK stack and monitoring system using Shinken.
+    Automating apps deployment and infrastructure deployment using ansible.
+    Using Docker for full stack building.
+    Used Rally for working in Agile, Jenkins for CI/CD, Mantis for tracking bugs.
+    <mark>Skills used</mark>: <b>Openstack, Jira, Mantis, Nagios, Shinken, Python, Jenkins, Git, Ansible </b>
+
