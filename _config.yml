@@ -49,11 +49,10 @@ additional_links:
 #   icon: 
 #   url: 
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+#Google Analytics and Tag Manager
+gtm: "GTM-M45TT4T"
+gtag: "UA-162149612-1"
+google_analytics: "UA-162149612-1"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
