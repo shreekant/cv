@@ -6,7 +6,7 @@ repository: My resume in this git repository
 name: Shreekant Kembhavi
 title: DevOps Engineer
 email: shreekant.pk@gmail.com
-website: https://shreekant.github.io/
+website: https://shree.uk/
 
 darkmode: false
 
@@ -25,20 +25,20 @@ instagram_username: shreekantpk
 # googleplus_username: +shreekantpk
 # orcid_username: 0000-0000-0000-0000
 
-# # Social links for footer
-# footer_linkedin_username: shreekantpk
-# footer_facebook_username: shreekantpk
-# footer_twitter_username: shreekantpk
-# footer_instagram_username: shreekantpk
-# footer_github_username:  shreekantpk
-# footer_stackoverflow_username: "1285684"
-# footer_dribbble_username: shreekantpk
-# footer_flickr_username: shreekant.pk
-# # footer_xing_username: shreekantpk
-# footer_pinterest_username: shreekantpk
-# footer_youtube_username: shreekantpk
-# # footer_googleplus_username: +shreekantpk
-# # footer_orcid_username: 0000-0000-0000-0000
+# Social links for footer
+footer_linkedin_username: shreekantpk
+footer_facebook_username: shreekantpk
+footer_twitter_username: shreekantpk
+footer_instagram_username: shreekantpk
+footer_github_username:  shreekant
+footer_stackoverflow_username: "1285684"
+footer_dribbble_username: shreekantpk
+#footer_flickr_username: shreekant.pk
+#footer_xing_username: shreekantpk
+footer_pinterest_username: shreekantpk
+footer_youtube_username: shreekantpk
+# footer_googleplus_username: +shreekantpk
+# footer_orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
