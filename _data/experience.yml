@@ -16,7 +16,7 @@
 
 - layout: left
   company: SAP Labs
-  job_title: Tech Architecture Delivery Specialist
+  job_title: DevOps Engineer
   dates: July 2017 to July 2019
   location: Bangalore, India
   description: | # this will include new lines to allow paragraphs
@@ -29,8 +29,8 @@
     
 - layout: left
   company: Oracle
-  job_title: Tech Architecture Delivery Specialist
-  dates: July 2017 to July 2019
+  job_title: Release Engineer
+  dates: Nov 2016 to July 2017
   location: Bangalore, India
   description: | # this will include new lines to allow paragraphs
     Release development for Oracle Fusion HCM cloud.
@@ -40,8 +40,8 @@
     
 - layout: left
   company: Cisco
-  job_title: Tech Architecture Delivery Specialist
-  dates: July 2017 to July 2019
+  job_title: Software Engineer
+  dates: June 2014 to Nov 2016
   location: Bangalore, India
   description: | # this will include new lines to allow paragraphs
     Develop and maintain CI/CD system that works on cloud and virtualization.
