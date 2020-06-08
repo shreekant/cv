@@ -61,13 +61,13 @@ about_profile_image: assets/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I am DevOps Specialist with over 6 years of professional experience and has developed a range of skills across DevOps, software development, cloud computing, Linux and more. I have been working as <mark>DevOps Engineer</mark> since shortly the concept was introduced.
   
-  Prior to joining Accenture, I worked as DevOps Engineer at SAP Labs, Oracle and Cisco. I have worked for multiple projects including IoT, digital supply chain & manufacturing, oracle HCM Cloud and set top boxes.
+  Prior to joining Accenture, I worked as DevOps Engineer at SAP Labs, Oracle and Cisco. I have worked for multiple certifications including IoT, digital supply chain & manufacturing, oracle HCM Cloud and set top boxes.
 
   I have 7 years of computer science education background including masters degree in Information Technology from The University of Nottingham, United Kingdom.
 
   
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+# Certifications Section
+# certifications_title: Certifications #(Use this to override about certifications section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)

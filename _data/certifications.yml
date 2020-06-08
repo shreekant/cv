@@ -1,0 +1,11 @@
+# Certification template
+- layout: left
+  name: AWS Certified Solution Architect - Associate
+  # link: https://www.youracclaim.com/badges/ab8e8d35-fcf9-4a7c-b3d6-0ef0f6d52268/public_url
+  # link: Link to certification (eg. sproogen.github.io/modern-resume-theme)(optional)
+  # github: Github page for certification (eg. sproogen/modern-resume-theme)(optional)
+  # quote: >
+  #   Short overview of the certification (optional)
+  description: | # this will include new lines to allow paragraphs
+     <a href = "https://www.youracclaim.com/badges/ab8e8d35-fcf9-4a7c-b3d6-0ef0f6d52268/public_url" target="_blank">Click here to verify my certification </a>
+    
