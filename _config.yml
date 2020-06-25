@@ -44,7 +44,7 @@ footer_youtube_username: shreekantpk
 additional_links:
 - title: Download CV
   icon: fas fa-arrow-alt-circle-down
-  url: ./assets/Resume.pdf
+  url: ./doc/Resume.pdf
 # - title: 
 #   icon: 
 #   url: 
@@ -56,7 +56,7 @@ google_analytics: "UA-162149612-1"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: assets/profile.jpg
+about_profile_image: doc/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I am DevOps Specialist with over 6 years of professional experience and has developed a range of skills across DevOps, software development, cloud computing, Linux and more. I have been working as <mark>DevOps Engineer</mark> since beginning of my career.
   
