@@ -8,7 +8,7 @@ title: DevOps Engineer
 email: shreekant.pk@gmail.com
 website: https://shree.uk/
 
-darkmode: false
+darkmode: true
 
 # Social links
 linkedin_username: shreekantpk
@@ -84,7 +84,7 @@ more_content: | # this will include new lines to allow paragraphs
   
   **Like people often say motivation doesn’t last. Well, neither does bathing—that’s why we recommend it daily.** 
 
-  Stay motivated and get in touch with on [LinkedIn](https://www.linkedin.com/in/shreekantpk/) or [email me](mailto:shreekant.pk@gmail.com) to stay connected!
+  Stay motivated and get in touch on [LinkedIn](https://www.linkedin.com/in/shreekantpk/) or [email me](mailto:shreekant.pk@gmail.com) to stay connected!
 
 # Footer
 footer_show_references: true
