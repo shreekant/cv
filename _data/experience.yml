@@ -1,10 +1,23 @@
 # Experience template
 - layout: left
+  company: Nationwide Building Society
+  # link: www.accenture.com
+  location: London, United Kingdom
+  job_title: Senior DevOps Engineer
+  dates: Feb 2021 - Till date
+  description: | # this will include new lines to allow paragraphs
+    Has been responsible for creating Infrastructure-As-Code using Terraform.
+    Using containerisation technologies such as Docker, Kubernetes.
+    Creating and maintaining automated build and deployment pipelines using Jenkins - Configuration as Code.
+    Working and helping to lead Agile teams, using the Scrum framework.
+    <mark>Skills used</mark>: <b>Kubernetes, AWS, Jenkins, Docker, Terraform and more</b>
+
+- layout: left
   company: Accenture UK
   # link: www.accenture.com
   location: London, United Kingdom
   job_title: Tech Architecture Delivery Specialist
-  dates: July 2019 to till date
+  dates: July 2019 to Feb 2021
   description: | # this will include new lines to allow paragraphs
     Involved in maintaining infrastructure including Kubernetes on Azure Cloud and AWS. 
     Maintaining repositories and release of product using Azure DevOps.
