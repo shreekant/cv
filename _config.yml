@@ -12,11 +12,11 @@ darkmode: false
 
 # Social links
 linkedin_username: shreekantpk
-facebook_username: shreekantpk
-twitter_username: shreekantpk
-instagram_username: shreekantpk
-# github_username:  shreekantpk
-# stackoverflow_username: "1285684"
+# facebook_username: shreekantpk
+# twitter_username: shreekantpk
+# instagram_username: shreekantpk
+github_username:  shreekantpk
+stackoverflow_username: "1285684"
 # dribbble_username: shreekantpk
 # flickr_username: shreekantpk
 # xing_username: shreekantpk
@@ -30,7 +30,7 @@ footer_linkedin_username: shreekantpk
 footer_facebook_username: shreekantpk
 footer_twitter_username: shreekantpk
 footer_instagram_username: shreekantpk
-#footer_github_username:  shreekant
+footer_github_username:  shreekantpk
 footer_stackoverflow_username: "1285684"
 footer_dribbble_username: shreekantpk
 #footer_flickr_username: shreekant.pk
