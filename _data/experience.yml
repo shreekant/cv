@@ -1,7 +1,7 @@
 # Experience template
 - layout: left
   company: Nationwide Building Society
-  # link: www.accenture.com
+  # link: www.nationwide.co.uk
   location: London, United Kingdom
   job_title: Senior DevOps Engineer
   dates: Feb 2021 - Till date
@@ -9,7 +9,7 @@
     Has been responsible for creating Infrastructure-As-Code using Terraform.
     Using containerisation technologies such as Docker, Kubernetes.
     Creating and maintaining automated build and deployment pipelines using Jenkins - Configuration as Code.
-    Working and helping to lead Agile teams, using the Scrum framework.
+    Working and helping to lead Agile teams, using the Kanban methodology.
     <mark>Skills used</mark>: <b>Kubernetes, AWS, Jenkins, Docker, Terraform and more</b>
 
 - layout: left
